@@ -1,7 +1,6 @@
 # FacilisStorage
 
 [![JitPack](https://jitpack.io/v/al3j4ndrolm/FacilisStorage.svg)](https://jitpack.io/#al3j4ndrolm/FacilisStorage)
-[![Build](https://github.com/al3j4ndrolm/FacilisStorage/actions/workflows/build.yml/badge.svg)](https://github.com/al3j4ndrolm/FacilisStorage/actions/workflows/build.yml)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
 **Android local storage in one line.** No DataStore setup, no Room boilerplate, no `suspend`.
